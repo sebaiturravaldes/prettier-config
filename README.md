@@ -50,3 +50,4 @@ OR
 - https://prettier.io/docs/en/configuration.html
 - Prettier share example https://github.com/azz/prettier-config
 - https://www.codereadability.com/automated-code-formatting-with-prettier
+- https://medium.com/@sebastianiturra/reutiliza-prettier-2d9747b967fd

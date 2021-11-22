@@ -1,0 +1,20 @@
+{
+  "name": "@siturra/prettier-config",
+  "version": "1.0.3",
+  "description": "Personal Prettier config",
+  "main": ".prettierrc.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siturra/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "author": "Sebastián Iturra <iturra.sebastian@hotmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/siturra/prettier-config/issues"
+  },
+  "homepage": "https://github.com/siturra/prettier-config#readme"
+}

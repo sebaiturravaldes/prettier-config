@@ -11,7 +11,7 @@
     "prettier",
     "prettier-config"
   ],
-  "author": "Sebastián Iturra <iturra.sebastian@hotmail.com",
+  "author": "Sebastián Iturra <iturra.sebastian@hotmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/siturra/prettier-config/issues"
